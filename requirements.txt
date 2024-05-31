@@ -1,0 +1,10 @@
+keras==2.3.1
+protobuf==3.20
+## CPU
+# tensorflow==1.14
+# GPU
+tensorflow-gpu==1.14.0
+bert4keras==0.9.7
+rouge
+jieba
+tqdm
